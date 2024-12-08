@@ -1,3 +1,4 @@
+(I got help from chatgbt)
 #include <iostream>
 #include <string>
 using namespace std;
